@@ -1,0 +1,43 @@
+{
+    // Usare IntelliSense per informazioni sui possibili attributi.
+    // Al passaggio del mouse vengono visualizzate le descrizioni degli attributi esistenti.
+    // Per altre informazioni, visitare: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch TestDynamicQueue",
+            "request": "launch",
+            "mainClass": "TestDynamicQueue",
+            "projectName": "Es_Lez6_e3dd4c1d"
+        },
+        {
+            "type": "java",
+            "name": "Launch TestSet",
+            "request": "launch",
+            "mainClass": "TestSet",
+            "projectName": "Es_Lez6_e3dd4c1d"
+        },
+        {
+            "type": "java",
+            "name": "Launch TestSet",
+            "request": "launch",
+            "mainClass": "TestSet",
+            "projectName": "Es_Lez6_9ed4cc3d"
+        },
+        {
+            "type": "java",
+            "name": "Launch TestDynamicQueue",
+            "request": "launch",
+            "mainClass": "TestDynamicQueue",
+            "projectName": "Es_Lez6_9ed4cc3d"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}",
+            "vmArgs": "-enableassertions"
+        }
+    ]
+}

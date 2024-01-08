@@ -1,0 +1,116 @@
+/*assign 0 to a;
+    assign 4 to b;
+    assign 0 to c;
+    conditional[
+        option(== a 0) do
+            while(< a 5){
+                conditional[
+                    option(== b 4) do
+                        assign 30 to c
+                ]
+                end;
+                print[a];
+                assign +(a,1) to a;
+                assign +(b,1) to b
+            }
+    ]
+    end;
+    print[b];
+    print[c]*/
+
+/*assign 3 to a;
+    assign 31 to b;
+    conditional[
+        option(== a 1) do
+            assign 10 to a
+        option(== a 2) do
+            assign 5 to a
+        option(== b 30) do
+            assign 0 to b
+    ]
+    else print[b] 
+    end;
+    print[a];
+    print[b]*/
+
+/*assign 0 to a;
+    while(< a 5){
+        print[a];
+        assign +(a,1) to a
+    }*/
+
+/*assign 2 to a;
+assign 11 to b;
+assign 51 to c;
+assign 15 to d;
+conditional[
+    option(== a 1) do
+        while(< a 5){
+            print[a];
+            assign + (a,1) to a
+        }
+    option(== b 10) do
+        conditional[
+            option(== c 5) do
+                while(< c 10){
+                    print[c];
+                    assign +(c,1) to c
+                }
+        ]
+        else print[d]
+        end
+]
+else print[b]
+end;
+print[a]*/
+
+/*assign 5 to x;
+conditional[
+    option (! > 60 11) do assign 10 to x
+]end;
+print[x];
+while(&& > x 2 > 61 2){
+    print[x];
+    assign +(x,1) to x;
+}*/
+
+/*read[x];
+conditional [
+            option (|| < x 10 && > x 20 ! > x 30) do print[+(x,100)]
+            ]
+else print[x] end*/
+
+/*assign 21 to a;
+assign 10 to b;
+assign 15 to d;
+assign 6 to c;
+conditional[
+    option(== a 1) do
+        while(< a 5){
+            print[a];
+            assign + (a,1) to a
+        }
+    option(== b 10) do
+        conditional[
+            option(== c 5) do
+                while(< c 10){
+                    print[c];
+                    assign +(c,1) to c
+                }
+        ]
+        else print[d]
+        end
+]
+else print[b]
+end;
+print[a]*/
+
+assign 2 to __2b;
+read[a_1, b];
+while(<> a_1 b)
+        conditional[option (> a_1 b) do assign - a_1 b to a_1]
+        else assign - b a_1 to b end;
+print[a_1, +(a_1, b, 100), 2023];
+print[10, 20, 30];
+assign 22 to c, d;
+print[c,d]

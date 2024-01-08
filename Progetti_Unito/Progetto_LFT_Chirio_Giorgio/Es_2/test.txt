@@ -1,0 +1,15 @@
+/*dog printread assign 10 to x;
+conditional option(> x 10) print(x) else read(y);
+begin end [] {} < > <> <= abc123 _ab_cd_ ______a cde
+12 abc to abc lol ez _2b*/
+
+assign 2 to _1a_2b_av21_123;
+assign 2 to bas;
+read[a_1, b];
+while(<> a_1 b)
+        conditional[option (> a_1 b) do assign - a_1 b to a_1]
+        else assign - b a_1 to b end;
+print[a_1, +(a_1, b, 100), 2023];
+print[10, 20, 30];
+assign 22 to c, d;
+print[c,d]

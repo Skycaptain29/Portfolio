@@ -1,0 +1,1 @@
+Gli esercizi 2.1, 2.2, 2.3 sono stati direttamente integrati nel file lexer.java

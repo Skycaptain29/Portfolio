@@ -1,0 +1,36 @@
+mdimauro@tebisitalia.it gives a gift to -> mimperatrice@tebisitalia.it
+   
+rpiola@tebisitalia.it gives a gift to -> mchirio@tebisitalia.it
+   
+mcalabrese@tebisitalia.it gives a gift to -> mpiccoli@tebisitalia.it
+   
+ecaputo@tebisitalia.it gives a gift to -> spreti@tebisitalia.it
+   
+spittatore@tebisitalia.it gives a gift to -> rpiola@tebisitalia.it
+   
+spreti@tebisitalia.it gives a gift to -> ecaputo@tebisitalia.it
+   
+vdicrescenzo@tebisitalia.it gives a gift to -> mferrara@tebisitalia.it
+   
+mpiccoli@tebisitalia.it gives a gift to -> rgiovara@tebisitalia.it
+   
+mchirio@tebisitalia.it gives a gift to -> sgila@tebisitalia.it
+   
+mferrara@tebisitalia.it gives a gift to -> spittatore@tebisitalia.it
+   
+sferrero@tebisitalia.it gives a gift to -> garbrun@tebisitalia.it
+   
+sgila@tebisitalia.it gives a gift to -> mrege@tebisitalia.it
+   
+cbratosin@tebisitalia.it gives a gift to -> mmasullo@tebisitalia.it
+   
+mrege@tebisitalia.it gives a gift to -> mdimauro@tebisitalia.it
+   
+mmasullo@tebisitalia.it gives a gift to -> vdicrescenzo@tebisitalia.it
+   
+mimperatrice@tebisitalia.it gives a gift to -> cbratosin@tebisitalia.it
+   
+rgiovara@tebisitalia.it gives a gift to -> mcalabrese@tebisitalia.it
+   
+garbrun@tebisitalia.it gives a gift to -> sferrero@tebisitalia.it
+   

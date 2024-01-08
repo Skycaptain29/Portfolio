@@ -1,0 +1,36 @@
+{
+    // Usare IntelliSense per informazioni sui possibili attributi.
+    // Al passaggio del mouse vengono visualizzate le descrizioni degli attributi esistenti.
+    // Per altre informazioni, visitare: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch MatrixDemo",
+            "request": "launch",
+            "mainClass": "MatrixDemo",
+            "projectName": "Es_Lez3_9ed4cc3a"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch ContattoDemo",
+            "request": "launch",
+            "mainClass": "ContattoDemo",
+            "projectName": "Es_Lez3_9ed4cc3a"
+        },
+        {
+            "type": "java",
+            "name": "Launch RubricaDemo",
+            "request": "launch",
+            "mainClass": "RubricaDemo",
+            "projectName": "Es_Lez3_9ed4cc3a",
+            "vmArgs": "-enableassertions"
+        }
+    ]
+}

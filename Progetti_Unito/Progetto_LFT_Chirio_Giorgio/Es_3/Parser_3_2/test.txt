@@ -1,0 +1,48 @@
+/*assign 10 to a,b;
+print[a,b];
+read[x,y];
+print[1,+(2,3,4)];
+conditional [
+		option (> x y) do print[x]
+		option (== x y) do print[y]
+]
+		else print[y] end;
+while (> x 0) {
+		assign - x 1 to x;
+		print[x];
+}*/
+
+/*read[x,y,z];
+conditional [
+	option (> x y) do conditional [ option (> x z) do print[x] ] else print[z] end 
+	]
+else
+	conditional [ option (> y z) do print[y] ] else print[z] end
+end*/
+
+/*read[n];
+assign 2 to i;
+assign 1 to f;
+while (<= i n){
+	assign *(f,i) to f;
+	assign +(i,1) to i
+};
+print[f]*/
+
+/*conditional[option ()]
+read[a,b];
+while (<> a b)
+	conditional [ option ( < a b) do assign - a b to a ]
+	else assign - b a to b end;
+print[a]*/
+
+assign 2 to _1a_2b_cde23_23;
+read[a_1, b];
+while(<> a_1 b)
+        conditional[option (> a_1 b) do assign - a_1 b to a_1]
+        else assign - b a_1 to b end;
+print[a_1, +(a_1, b, 100), 2023];
+print[10, 20, 30];
+assign 22 to c, d;
+print[c,d]
+
